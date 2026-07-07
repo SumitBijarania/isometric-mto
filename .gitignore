@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+__pycache__/
+.env
+.next/
+venv/
+*.pyc
+.pytest_cache/
+outputs/
+uploads/
