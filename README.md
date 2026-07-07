@@ -201,7 +201,7 @@ Upload an isometric drawing to generate the Material Take-Off.
 
 ---
 
-# Docker Setup 
+# Docker Setup (Optional)
 
 ```bash
 cp backend/.env.example backend/.env
